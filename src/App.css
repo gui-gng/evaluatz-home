@@ -80,7 +80,7 @@
   font:  5vw exo, ubuntu, "segoe ui", helvetica, arial, sans-serif;
   text-align: center;
   /* img size is 50x50 */
-  background: url('http://localhost:3000/main-wallpaper.mp4');
+  background: url('http://www.evaluatz.com/main-wallpaper.mp4');
   background-size:cover;
 }
 .evaluatz-home-header p{
@@ -124,7 +124,7 @@
   color: white;
   font:  10vw exo, ubuntu, "segoe ui", helvetica, arial, sans-serif;
   text-align: center;
-  background: url("http://localhost:3000/esports-wallpaper.png");
+  background: url("http://www.evaluatz.com/esports-wallpaper.png");
   background-size:cover;
   }
 

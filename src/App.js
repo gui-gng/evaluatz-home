@@ -11,7 +11,7 @@ function App() {
       <Header />
       <div class="evaluatz-content">
         <div class="evaluatz-home-header d-flex align-items-center  justify-content-center flex-column">
-          <img src="http://localhost:3000/logo192.png" ></img>
+          <img src="http://www.evaluatz.com/logo192.png" alt="bgmain"></img>
           <p class="p-3">Evaluating the values</p>
           <p class="p-3">Creating predictions</p>
         </div>
