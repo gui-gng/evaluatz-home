@@ -52,7 +52,7 @@ class ChartSample extends React.Component {
 
 
     loadChart() {
-        var dateFormat = 'MMMM DD YYYY';
+        // var dateFormat = 'MMMM DD YYYY';
         // var date = moment('April 01 2017', dateFormat);
         var length = 30;
         var labels = Array.apply(null, { length: length }).map(Function.call, Number);;
